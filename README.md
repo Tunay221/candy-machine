@@ -1,3 +1,2 @@
-NFT CANDY-MACHINE 
-
-Tunti35 Edition
+# Solana Labs NFT CANDY-MACHINE 
+Coding by Tunti35
